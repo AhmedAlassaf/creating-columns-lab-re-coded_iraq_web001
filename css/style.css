@@ -53,15 +53,14 @@ div.column {
 }
 
 /* create your tile classes! we recommend .small .med .large */
-div div.small {
+.small {
   width: 5%;
 }
 
-div div.med {
+.med {
   width: 10%;
-  flex: 2;
 }
 
-div div.large {
+.large {
   
 }
