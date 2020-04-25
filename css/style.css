@@ -57,6 +57,7 @@ img:hover {
   display: inline-block;
   width: 33.33%;
   height: 33.33%;
+  vertical-align: top;
 }
 
 .med {
